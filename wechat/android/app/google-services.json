@@ -1,0 +1,39 @@
+{
+    "project_info": {
+      "project_number": "870387840596",
+      "project_id": "we-chat-ed5fb",
+      "storage_bucket": "we-chat-ed5fb.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:870387840596:android:af53285fc501316c489fc1",
+          "android_client_info": {
+            "package_name": "com.ryankirk.wechat"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "870387840596-ffiioed1ipfi0r63o8n7cie9hji6nbqb.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyDNKlYLilqvw_KKuzwPgnTcknq82oq6sXU"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "870387840596-ffiioed1ipfi0r63o8n7cie9hji6nbqb.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
